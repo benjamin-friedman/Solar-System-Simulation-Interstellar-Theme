@@ -1,7 +1,7 @@
 # Solar-System-Simulation-Interstellar-Theme
 - Simulation for the sun, earth, mars, venus, and mercury. The relative position and speed the planets accurately models what the actual orbits are in the real solar system. Additionally, the time is kept track of.
 - The music and poem verse are inspired from the movie Interstellar.
-- The project was done with Microsoft Visual Studio 2017 using SFML 2.5.1, but a Makefile is also provided so the program can be run from the command line in Linux.
+- The project was done with Microsoft Visual Studio 2017 using SFML 2.5.1, but a Makefile is also provided so the program can be run without Viusal Studio.
 - Link to video demo: https://www.youtube.com/watch?v=zIb-SWPBKIs
 
 # Instructions
