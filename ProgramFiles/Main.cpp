@@ -175,6 +175,8 @@ int main(int argc, char* argv[]) {
 	/* output final state of solar system */
 	std::cout << "\nFINAL STATE OF SOLAR SYSTEM\n";
 	std::cout << solarSystem;
+
+	
 	return 0;
 }
 
