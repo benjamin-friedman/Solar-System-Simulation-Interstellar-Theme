@@ -54,7 +54,6 @@ void initializePoemText(sf::Text& doNot, const std::string& doNotVerse, sf::Text
 // Initializes the song
 void initializeSong(sf::Music& song, const std::string& songFileName);
 
-
 // Updates the time information during the simulation
 void updateTimeInformation(double timeElapsed, int& totalSecondsPassed, int& totalDaysPassed, int& daysThisMonth,
 	const int daysPerMonth[], size_t& daysPerMonthIndex, int& totalMonthsPassed, int& monthsThisYear, int& totalYearsPassed,
@@ -176,7 +175,7 @@ int main(int argc, char* argv[]) {
 	std::cout << "\nFINAL STATE OF SOLAR SYSTEM\n";
 	std::cout << solarSystem;
 
-	
+
 	return 0;
 }
 
